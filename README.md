@@ -1,7 +1,7 @@
 # Car Price prediction
 
 # Project description
-In this project we will build a car price prediction systemusing machine learning with Python
+In this project we will build a car price prediction system using machine learning with Python
 
 # Workflow
 
